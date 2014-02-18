@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'hologram_rails', path: 'vendor/engines/hologram_rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
