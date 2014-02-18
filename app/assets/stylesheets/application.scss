@@ -1,0 +1,22 @@
+/*doc
+---
+title: Input with label
+name: label-input
+category: basics
+---
+
+Horizontal inputs with labels.
+
+```html_example
+<div class='styleguide'>
+  <form>
+    <div class='input'>
+      <label for='name'>Name</label>
+      <input type='text' id='name' placeholder='John Doe' />
+    </div>
+  </form>
+</div>
+```
+
+*/
+
