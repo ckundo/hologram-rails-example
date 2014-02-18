@@ -7,11 +7,9 @@ require "hologram_rails/version"
 Gem::Specification.new do |s|
   s.name        = "hologram_rails"
   s.version     = HologramRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of HologramRails."
-  s.description = "TODO: Description of HologramRails."
+  s.authors     = ["Cameron Cundiff"]
+  s.email       = ["ccundiff@pivotallabs.com"]
+  s.summary     = "An example of using Hologram styleguide in a Rails app."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
