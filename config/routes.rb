@@ -1,4 +1,5 @@
 HologramRailsExample::Application.routes.draw do
+  mount HologramRails::Engine, at: "/styleguide"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
