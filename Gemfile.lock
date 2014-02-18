@@ -1,5 +1,6 @@
-PATH
-  remote: vendor/engines/hologram_rails
+GIT
+  remote: git://github.com/ckundo/hologram_rails.git
+  revision: ab249ee97b64cf8a525a7ac9689fadd7bc5a4b81
   specs:
     hologram_rails (0.0.1)
       high_voltage
