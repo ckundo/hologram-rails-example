@@ -1,0 +1,15 @@
+# The directory containing the source files to parse recursively
+source: ../stylesheets
+
+# The directory that hologram will build to
+destination: ../../views/pages
+
+# The assets needed to build the docs (includes header.html,
+# footer.html, etc)
+# You may put doc related assets here too: images, css, etc.
+documentation_assets: ./doc_assets
+
+# Mark which category should be the index page
+# Alternatively, you may have an index.md in the documenatation assets
+# folder instead of specifying this configu.
+index: basics
